@@ -1,0 +1,12 @@
+.WrapperContainer
+{
+	float: left; 
+	width:100% ; 
+	height:auto ; 
+	padding: 10px; 
+	margin: 0px; 
+	display: inline; 
+	background:rgb(40,69,100);
+	border: 5px solid #274060;
+	
+}
